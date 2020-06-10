@@ -1,2 +1,2 @@
 # Data-Capstone-Project
-It is a data analysis and plotting using pythons library's.
+Some Exploratory data analysis on some demo data by using python library like numpy, pandas and graph ploting using maplot and seaborn.
